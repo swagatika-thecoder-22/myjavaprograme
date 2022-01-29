@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="if-exercises/" kind="src" path=""/>
+	<classpathentry kind="src" path="if-exercises"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
